@@ -1,8 +1,22 @@
 body {
-	background: #777777;
+	
 }
-h1 {
-	text-align: center; background: #777777 ;
+
+#nome{
+	width: 100%;
+
+}
+.titulos-centralizados {
+	text-align: center; background: #660000 ;
+}
+.primeiro{
+	background: #0000AA;
+	padding: 50px;
+
+}
+
+.titulo {
+	padding-left: 50px;
 }
 p {
 	text-align: center;
@@ -14,3 +28,29 @@ p {
 
 em strong{
 	color: #FF5555
+
+}
+
+.bene{
+	font-style: italic;
+}
+
+
+
+
+.Benefícios {
+	background: #008800;
+}
+
+
+
+ul {
+	display: inline-block;
+	vertical-align: top;
+	width: 20%;
+	margin-right: 15%;
+}
+.segundaIMG {
+	width: 30%;
+}
+
