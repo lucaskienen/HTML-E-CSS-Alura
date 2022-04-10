@@ -1,3 +1,16 @@
+body {
+	background: #777777;
+}
+h1 {
+	text-align: center; background: #777777 ;
+}
 p {
-	text-align: center
+	text-align: center;
 	}
+
+#escolhemos {
+	font-size: 26px
+}
+
+em strong{
+	color: #FF5555
